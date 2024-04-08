@@ -1,5 +1,5 @@
 Hello! I'm Banke -but I also go by @wth_sunny 👋
-Here are some ideas to get you started:
+Here are some ideas to get Started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
