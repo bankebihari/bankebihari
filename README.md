@@ -1,6 +1,5 @@
-![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)
-<h1 align="center">Hi 👋, I'm Banke Bihari</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+ <h1 align="center">Hi 👋, I'm Banke Bihari</h1>
+<h3 align="center">A passionate Web developer</h3>
  
 <h2>💫 About Me:</h2>
 <img align=right width=400px src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
