@@ -11,7 +11,11 @@
 ⚡ Fun fact I think I am Funny
 
 <h2>🌐 Connect with Me: Portfolio</h2>
-
+<p align="left">
+  <a href="https://bankebihari-portfolio.vercel.app" target="_blank">
+    https://bankebihari-portfolio.vercel.app
+  </a>
+</p>
 <p align="left">
 
   <!-- Blinking Arrow -->
@@ -22,4 +26,5 @@
   </a>
 
 </p>
+
  
