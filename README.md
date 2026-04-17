@@ -9,3 +9,17 @@
 💬 Ask me about Aws, Python, Java, C++, HTML, CSS, Flask, React.js , Node.js , Express.js <br><br>  
 📫 How to reach me <span style="background-color: yellow; padding: 0.2em; border-radius: 0.2em;">bankebihari1206@gmail.com</span><br><br>  
 ⚡ Fun fact I think I am Funny
+
+<h2>🌐 Connect with Me:</h2>
+
+<p align="left">
+
+  <!-- Blinking Arrow -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60px"/>
+
+  <a href="https://bankebihari-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Visit_Portfolio-Click_Here-red?style=for-the-badge&logo=vercel"/>
+  </a>
+
+</p>
+ 
