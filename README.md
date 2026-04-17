@@ -10,7 +10,7 @@
 📫 How to reach me <span style="background-color: yellow; padding: 0.2em; border-radius: 0.2em;">bankebihari1206@gmail.com</span><br><br>  
 ⚡ Fun fact I think I am Funny
 
-<h2>🌐 Connect with Me:</h2>
+<h2>🌐 Connect with Me: Portfolio</h2>
 
 <p align="left">
 
